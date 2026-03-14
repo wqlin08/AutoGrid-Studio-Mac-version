@@ -1,0 +1,1 @@
+# AutoGrid-Studio-Mac-version
