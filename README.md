@@ -19,6 +19,14 @@ If macOS shows that AutoGrid Studio is damaged and cannot be opened, open Termin
 xattr -dr com.apple.quarantine "/Applications/AutoGrid Studio.app"
 ```
 ![images](img1.jpg)
+
+## Windows Notice
+
+If Windows shows a Microsoft Defender SmartScreen warning when opening AutoGrid Studio, click **More info** and then choose **Run anyway**.
+
+Then continue launching the app normally.
+
+![images](img2.jpg)
 ## What It Does
 
 AutoGrid Studio helps you create:
