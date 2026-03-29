@@ -5,6 +5,20 @@ AutoGrid Studio is a desktop app for turning collections of images into clean, c
 It is built for workflows where you need to place multiple images into a structured grid, add labels, annotate key areas, and export polished results without fighting a general-purpose design tool.
 
 ![images](img.jpg)
+
+# Platform Support
+
+- macOS
+- Windows
+
+## macOS Notice
+
+If macOS shows that AutoGrid Studio is damaged and cannot be opened, open Terminal and run:
+
+```bash
+xattr -dr com.apple.quarantine "/Applications/AutoGrid Studio.app"
+```
+![images](img1.jpg)
 ## What It Does
 
 AutoGrid Studio helps you create:
@@ -85,11 +99,6 @@ This makes it easy to come back to a figure and revise it later instead of rebui
 - educators
 - creators who regularly assemble structured image layouts
 - anyone who wants a dedicated desktop tool for multi-image figure composition
-
-## Platform Support
-
-- macOS
-- Windows
 
 ## Summary
 
